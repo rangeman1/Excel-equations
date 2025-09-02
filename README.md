@@ -1,1 +1,1 @@
-Manual data flow from 6D to 4D prepared in OpenOffice. 
+Manual data flow in shee2 from 6D to 4D prepared in OpenOffice. 
